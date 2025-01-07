@@ -1,0 +1,2 @@
+# Vanilla-Gradient-Descent-for-Classification-with-Real-Time-Visualization
+This project demonstrates the implementation of vanilla gradient descent (batch gradient descent) to find the optimal decision boundary for a binary classification task. Using Python and visualization libraries, I crafted an interactive representation of how gradient descent minimizes cross-entropy loss and adjusts parameters iteratively.
